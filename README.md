@@ -1,0 +1,1 @@
+In this competition, I'm challenged to build a multi-headed model that’s capable of detecting different types of of toxicity like threats, obscenity, insults, and identity-based hate better than Perspective’s current models. I have used a dataset of comments from Wikipedia’s talk page edits. 
